@@ -1,2 +1,3 @@
 # SID-PROJECTS
-my first git
+My first Git REPOSITORY
+Author - SIDDHANTH
